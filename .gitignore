@@ -1,0 +1,9 @@
+.idea/*
+.gradle/*
+
+NewProject1.iml
+
+*.class
+
+*.war
+*.jar
